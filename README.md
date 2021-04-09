@@ -3,6 +3,7 @@
 Receleur en RageUI V2
 
 Voici un Receleur beaucoup plus opti que le menu d'avant que j'avais fait.
+Le script est aussi protégé contre les dumpers et les cheaters un grand merci à Kadir#6400.
 
 Pour que le menu fonctionne il vous faut bien sûr es_Extended.
 
